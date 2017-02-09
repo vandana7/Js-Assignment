@@ -1,0 +1,29 @@
+
+div.arrayoperation{
+  align-content:center;
+  padding-left : 10px;
+  position:absolute;
+  margin: 20px;
+  height: 450px;
+  width: 600px;
+  right: 300px;
+  bottom: 10px;
+  background-color:grey;
+}
+.time {
+    font-size: 100%;
+    color: white;
+    position: static;
+
+}
+.TimeContainer{
+  align-content:center;
+  padding-left: 10px;
+  position:absolute;
+  margin: 20px;
+  height: 100px;
+  width: 200px;
+  right: 10px;
+  top: 10px;
+
+}

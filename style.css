@@ -1,0 +1,23 @@
+div.border {
+    align-content:center;
+    padding-left: 10px;
+    position:absolute;
+    bottom: 100px;
+    left:400px;
+    width: 450px;
+    background-color:grey;
+}
+div.why{
+    align-items: center;
+    margin: 10px;
+    position: absolute;
+    top: 100px;
+    right: 80px;
+}
+div.start {
+    align-items: baseline;
+    margin: 10px;
+    position: absolute;
+    top: 30px;
+    left: 50px;
+}
